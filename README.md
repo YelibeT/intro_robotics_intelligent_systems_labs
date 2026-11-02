@@ -39,8 +39,14 @@ git pull
 ```
 
 colcon finds the packages of every lab in the repository. Build only the lab you are working on, as
-its README shows; for Lab 1:
 
+Before:
+
+(images/robo.jpg)
+
+After:
+
+(images/robotics.PNG)
 ```bash
 cd ~/ros2_ws
 colcon build --symlink-install --packages-up-to diffdrive_bot
