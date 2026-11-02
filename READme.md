@@ -65,6 +65,14 @@ ros2 run my_robot_nodes rotate_server
 - `SetTurnSpeed.srv`: Dynamic turning speed configuration.
 - `Rotate.action`: Rotation goals, feedback, and results.
 
+## Before:
+
+(images/robo.jpg)
+
+## After:
+
+(images/robotics.PNG)
+
 ## Challenges
 - Docker and Gazebo GUI configuration.
 - URDF/Xacro XML debugging.
