@@ -67,11 +67,11 @@ ros2 run my_robot_nodes rotate_server
 
 ## Before
 
-![Robot Before](./lab01/images/robo.jpg)
+![Robot Before](lab01/images/robo.jpg)
 
 ## After
 
-![Robot After](./lab01/images/robotics.PNG)
+![Robot After](lab01/images/robotics.PNG)
 
 ## Challenges
 - Docker and Gazebo GUI configuration.
