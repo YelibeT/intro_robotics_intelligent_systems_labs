@@ -67,7 +67,7 @@ ros2 run my_robot_nodes rotate_server
 
 ## Before
 
-![Robot Before](./lab01/images/robo.jpg)
+![Robot Before](./lab_01/images/robo.jpg)
 
 ## After
 
