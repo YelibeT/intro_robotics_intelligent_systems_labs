@@ -65,13 +65,13 @@ ros2 run my_robot_nodes rotate_server
 - `SetTurnSpeed.srv`: Dynamic turning speed configuration.
 - `Rotate.action`: Rotation goals, feedback, and results.
 
-## Before:
+## Before
 
-lab01/images/robo.jpg
+![Robot Before](./lab01/images/robo.jpg)
 
-## After:
+## After
 
-lab01/images/robotics.PNG
+![Robot After](./lab01/images/robotics.PNG)
 
 ## Challenges
 - Docker and Gazebo GUI configuration.
